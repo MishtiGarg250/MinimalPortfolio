@@ -20,8 +20,8 @@ const projects = [
   {
     title: "PixelPerfect",
     description: "A modern, full-stack web application combining a feature-rich blogging platform with a structured learning track system for content creators and learners.",
-    link: "#",
-    github: "#",
+    link: "https://pixel-perfect-1.vercel.app/",
+    github: "https://github.com/MishtiGarg250/PixelPerfect2.0",
     year: "2025",
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Clerk", "Prisma", "PostgreSQL"]
   },
@@ -29,31 +29,31 @@ const projects = [
     title: "Uniq",
     description: "A smart, real-time virtual queue and reservation system that digitizes campus services using live tracking, predictive wait times, and multi-platform access.",
     link: "#",
-    github: "#",
+    github: "https://github.com/VaidikKindaCodes/UniQ",
     year: "2026",
-    techStack: ["Next.js", "React", "Node.js"] // Update if different
+    techStack: ["Next.js", "React", "Node.js","websocket","redis","mongodb"] // Update if different
   },
   {
     title: "PixelFi",
     description: "AI-Powered Wealth Portfolio Management. Structures investments, tracking, and future targets into an intelligent financial OS with real-time market data, custom asset tracking, and automated background jobs.",
     link: "#",
-    github: "#",
+    github: "https://github.com/mishtigarg250/pixelfi",
     year: "2026",
     techStack: ["Next.js", "Express", "PostgreSQL", "Prisma", "Clerk", "Finnhub", "TanStack Query"]
   },
   {
     title: "Cirql",
     description: "Real-Time Social Video Platform. Features collaborative watch party rooms with YouTube sync, live chat, and a friend system with direct messaging and notifications.",
-    link: "#",
-    github: "#",
+    link: "https://cirql-realtime.vercel.app/",
+    github: "https://github.com/MishtiGarg250/Cirql-realtime",
     year: "2025",
     techStack: ["Next.js", "Express", "Socket.IO", "MongoDB", "Tailwind CSS"]
   },
   {
     title: "Aether",
     description: "AI-Powered Personal Workspace. Organizes notes, tasks, and links with Google Generative AI. Features an interactive D3.js knowledge graph, Google Calendar sync, and background job processing via BullMQ.",
-    link: "#",
-    github: "#",
+    link: "https://github.com/mishtigarg250/aether",
+    github: "",
     year: "2026",
     techStack: ["Next.js", "Express", "MongoDB", "D3.js", "BullMQ", "Redis", "Generative AI"]
   }
