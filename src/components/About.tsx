@@ -29,16 +29,7 @@ export default function About() {
           </div>
         </div>
 
-        <div>
-          <h3 className="text-2xl font-semibold mb-4">Achievements & Leadership</h3>
-          <ul className="list-disc list-inside text-gray-400 space-y-2 text-lg">
-            <li><strong className="text-gray-300">Top 3 Best Mentor</strong> at OpenCode IIIT Allahabad for mentoring open-source contributors.</li>
-            <li><strong className="text-gray-300">Top 10 Teams</strong> at III Hackathon, IIIT Allahabad.</li>
-            <li><strong className="text-gray-300">Winner — Best Fresher Team</strong> at the OOC Design & Development Hackathon.</li>
-            <li>Open-source contributor at <strong className="text-gray-300">GirlScript Summer of Code (GSSoC)</strong>.</li>
-            <li>Participated in national-level hackathons including Economic Times Hackathon and AI for Bharat Hackathon.</li>
-          </ul>
-        </div>
+       
       </div>
     </section>
   );
